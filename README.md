@@ -1,14 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=180&section=header&text= 👋 Hi, I'm Aria!&fontSize=55&fontColor=ffffff" width="100%"/>
-
+# 👋 Hi, I'm Aria!
 
 **Python Developer | Web Development Learner | Tech Enthusiast**
-
-<a href="https://github.com/ariakr1394">
-  <img src="https://img.shields.io/badge/GitHub-ariakr1394-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -39,17 +34,6 @@ web development, and computer science.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ariakr1394&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariakr1394&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ### 🌟 Featured Projects
 
