@@ -40,7 +40,7 @@ web development, and computer science.
 
 <!-- Add your projects here -->
 
-- Terminal Messenger (Open Source)
+- [Terminal Messenger (Open Source)](https://github.com/ariakr1394/Messenger)
 
 ---
 
