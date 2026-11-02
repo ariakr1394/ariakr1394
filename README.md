@@ -40,7 +40,7 @@ web development, and computer science.
 
 <!-- Add your projects here -->
 
-- I haven't written any projects now
+- Terminal Messenger (Open Source)
 
 ---
 
