@@ -41,7 +41,7 @@ web development, and computer science.
 <!-- Add your projects here -->
 
 - [Messenger (Open Source)](https://github.com/ariakr1394/Messenger)
-- - [JavaScript Online IDE (Open Source)](https://github.com/ariakr1394/JavascriptOnlineIDE)
+- [JavaScript Online IDE (Open Source)](https://github.com/ariakr1394/JavascriptOnlineIDE)
 
 ---
 
